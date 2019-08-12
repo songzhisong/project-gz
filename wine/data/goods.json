@@ -1,0 +1,93 @@
+﻿[
+	{
+        "name":"【名庄】卡门萨城堡干红葡萄酒2011",
+        "url":"data/1.jpg",
+		"tip":"中国大陆",
+		"goodsId":"adsadas",
+		"subtitle":"Camensac 2011",
+		"price":"223"
+	},
+	{
+        "name":"大金钟庄园副牌干红2011年750mlAngelus",
+        "url":"data/2.jpg",
+		"tip":"中国大陆",
+		"goodsId":"a2",
+		"subtitle":"Le Carillon de I Angelus",
+		"price":"253"
+	},
+	{
+        "name":"【名庄】玫瑰山庄干红葡萄2010Montrose",
+        "url":"data/3.jpg",
+		"tip":"中国大陆",
+		"goodsId":"a3",
+		"subtitle":"La Dame de Montrose 2010",
+		"price":"2123"
+	},
+	{
+        "name":"【名庄】金玫瑰庄园副牌干红2011",
+        "url":"data/4.jpg",
+		"tip":"中国大陆",
+		"goodsId":"a4",
+		"subtitle":"Sarget de Gruaud Larose 2011",
+		"price":"145"
+	},
+	{
+        "name":"【名庄】谷类干红葡萄酒2011（超二级庄爱士出品）",
+        "url":"data/5.jpg",
+		"tip":"中国大陆",
+		"goodsId":"a5",
+		"subtitle":"Chandon",
+		"price":"421"
+	},
+	{
+        "name":"【名庄】靓茨伯庄园红葡萄酒2011Bages",
+        "url":"data/6.jpg",
+		"tip":"中国大陆",
+		"goodsId":"a6",
+		"subtitle":"Chateau Lynch Bages",
+		"price":"312"
+	},
+	{
+        "name":"【名庄】奈宁城堡干红2014（又名列兰）",
+        "url":"data/6.png",
+		"tip":"中国大陆",
+		"goodsId":"a7",
+		"subtitle":"Dame",
+		"price":"663"
+	},
+	{
+        "name":"力关庄园干红葡萄酒2011年750mlLagrange",
+        "url":"data/7.png",
+		"tip":"中国大陆",
+		"goodsId":"a8",
+		"subtitle":"Chateau Lagrange",
+		"price":"524"
+	},
+	{
+        "name":"【名庄】酩悦香槟Chandon Brut Imperial",
+        "url":"data/8.png",
+		"tip":"中国大陆",
+		"goodsId":"a9",
+		"subtitle":"Moet Chandon Brut Imperial",
+		"price":"218"
+	},
+	{
+        "name":"【名庄】巴黎之花香槟 Grand Brut",
+        "url":"data/9.png",
+		"tip":"中国大陆",
+		"goodsId":"a10",
+		"subtitle":"Perrier Jouet Grand Brut",
+		"price":"113"
+	},
+	{
+        "name":"【名庄】佳得美酒庄干红葡萄酒2011",
+        "url":"data/10.png",
+		"tip":"中国大陆",
+		"goodsId":"a11",
+		"subtitle":"Chateau Cantemerle 2011",
+		"price":"964"
+	}
+	
+	
+	
+]
